@@ -1,0 +1,8 @@
+﻿  Cells.cpp
+  Grid.cpp
+  main.cpp
+  MathModule.cpp
+  Génération de code en cours...
+MathModule.obj : error LNK2019: symbole externe non résolu "private: __thiscall v2f::v2f(void)" (??0v2f@@AAE@XZ) référencé dans la fonction "private: class v2f __thiscall v2f::operator+(class v2f)" (??Hv2f@@AAE?AV0@V0@@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: symbole externe non résolu _main référencé dans la fonction "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\Créations Persos\Progra\C++\Visual Studio\GrowingCells\Debug\GrowingCells.exe : fatal error LNK1120: 2 externes non résolus
